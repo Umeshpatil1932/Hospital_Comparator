@@ -31,7 +31,7 @@
 
 1. Clone the Repository:
  
-   git clone https://github.com/Umeshpatil1932/HospitalComparator.git
+   git clone https://github.com/Umeshpatil1932/Hospital_Comparator.git
    cd HospitalComparator
    
 
